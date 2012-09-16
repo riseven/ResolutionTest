@@ -1,0 +1,34 @@
+<GameInfo>
+	<Images>
+		<Image url="16.jpg" />
+  </Images>
+    <Levels>
+    <Level dir= "1/" cars= "5/" />
+    <Level dir= "6/" cars= "1/" />
+    <Level dir= "1/" cars= "7/" />
+    <Level dir="10/" cars= "1/" />
+    <Level dir= "1/" cars="11/" />
+  </Levels>
+  <Levels>
+    <Level dir= "1/" cars= "1/" />
+    <Level dir= "2/" cars= "1/" />
+    <Level dir= "1/" cars= "3/" />
+    <Level dir= "4/" cars= "1/" />
+    <Level dir= "1/" cars= "5/" />
+    <Level dir= "6/" cars= "1/" />
+    <Level dir= "1/" cars= "7/" />
+    <Level dir= "8/" cars= "1/" />
+    <Level dir= "1/" cars= "9/" />
+    <Level dir="10/" cars= "1/" />
+    <Level dir= "1/" cars="11/" />
+    <Level dir="12/" cars= "1/" />
+    <Level dir= "1/" cars="13/" />
+    <Level dir="14/" cars= "1/" />
+    <Level dir= "1/" cars="15/" />
+    <Level dir="16/" cars= "1/" />
+    <Level dir= "1/" cars="17/" />
+    <Level dir="18/" cars= "1/" />
+    <Level dir= "1/" cars="19/" />
+    <Level dir="20/" cars= "1/" />
+  </Levels>
+</GameInfo>
